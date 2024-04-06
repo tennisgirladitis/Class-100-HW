@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(248, 223, 253);
+}
+
+h1{
+    font-family:'Trebuchet MS';
+    font-style: oblique;
+    font-weight: 1000;
+    color: cadetblue;
+}
+
+h3{
+    color: darkcyan;
+    font-weight: 600;
+}
+
+h4{
+    color: rgba(15, 108, 105, 0.514);
+    font-weight: 1000;
+}
+
+#camera{
+    width: 600px;
+}
+
+img{
+    width: 40%;
+    border-radius: 5%;
+    box-shadow: 10px 10px rgba(108, 15, 102, 0.514);
+}
+
+img:hover{
+    border-radius: 30px;
+}
+
+#text_box{
+    width: 50%;
+}
+
+#web_cam{
+    color: darkcyan;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#yourvoice{
+    font-family:'Trebuchet MS';
+    font-style: oblique;
+    font-weight: 1000;
+    color: cadetblue;
+    font-size: 20px;
+}
+
+#textarea{
+    border-radius: 20px;
+    color: rgb(37, 37, 97);
+}
+
+#allselfies{
+    font-family:'Trebuchet MS';
+    font-style: oblique;
+    font-weight: 1000;
+    color: cadetblue;
+    font-size: 20px;   
+}
